@@ -1,1 +1,3 @@
 # Tollz-E-Online-Toll-System-
+
+Driven by innovative solution, the Tollz-E(Online Toll Tax Payment System) is a web application designed to simplify toll payments. Built with Spring Boot, React.js, and MySQL, it offers a user-friendly interface for making payments, viewing transaction history, and managing accounts. The system ensures secure transactions with real-time updates and includes administrative tools for managing toll rates ,users, admins and toll history. Its scalable design accommodates future growth and additional features, streamlining the toll payment process for both users and administrators.
